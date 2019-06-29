@@ -1,7 +1,9 @@
-#
+# ignore all unnecessary file
 *
 !*.*
 .vscode
+test.cpp
+input.txt
 
 # Prerequisites
 *.d
