@@ -1,9 +1,17 @@
-# ignore all unnecessary file
+# Ignore all
 *
+
+# Unignore all with extensions
 !*.*
+
+# Unignore all dirs
+!*/
 .vscode
 test.cpp
 input.txt
+*.dSYM
+
+# Unignore al
 
 # Prerequisites
 *.d
